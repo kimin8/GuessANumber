@@ -1,4 +1,9 @@
 # The "Guess A Number" Game
+
+<b>Live Demo</b>
+<br>
+Click the URL linked with this repository and enjoy a live demo of the game! :)
+
 <p>This is a Python based implementation "Guess A Number"m, but with a twist...</p>
 <img alt ="Image" width="400px" src="https://raw.githubusercontent.com/thiagodnf/guess-the-number/master/images/logo.png?token=AAG9XwrL-t72tifQ-eA47lewNBqqV9Nwks5cDnuJwA%3D%3D"></img>
 
