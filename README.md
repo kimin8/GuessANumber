@@ -4,7 +4,7 @@
 <br>
 Click the URL linked with this repository and enjoy a live demo of the game! :)
 
-<p>This is a Python based implementation "Guess A Number"m, but with a twist...</p>
+<p>This is a Python based implementation "Guess A Number", but with a twist...</p>
 <img alt ="Image" width="400px" src="https://raw.githubusercontent.com/thiagodnf/guess-the-number/master/images/logo.png?token=AAG9XwrL-t72tifQ-eA47lewNBqqV9Nwks5cDnuJwA%3D%3D"></img>
 
 <p><a href="https://computersciencewiki.org/index.php/Guess_a_number" target="_blank">Guess A Number</a> is a single-player game where the player tries to guess a randomly generated number from the computer and the more numbers he has guessed correctly,  the <b>harder</b> the game becomes. The rules are as follows:</p>
